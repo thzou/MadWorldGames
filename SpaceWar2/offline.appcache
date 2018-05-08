@@ -1,0 +1,23 @@
+﻿CACHE MANIFEST
+#1480019418
+data.js
+c2runtime.js
+jquery-2.1.1.min.js
+images/tiledbackground.png
+images/player-sheet0.png
+images/enemy-sheet0.png
+images/laserprojectile-sheet0.png
+media/explosion%203.m4a
+media/explosion%203.ogg
+media/lazer%20fire%201.m4a
+media/lazer%20fire%201.ogg
+media/the%20stage%20is%20set.m4a
+media/the%20stage%20is%20set.ogg
+icon-16.png
+icon-32.png
+icon-114.png
+icon-128.png
+icon-256.png
+loading-logo.png
+NETWORK:
+*
