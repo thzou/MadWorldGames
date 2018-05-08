@@ -21,7 +21,7 @@ if(isset($_POST['submitted']))
       <script type='text/javascript' src='scripts/gen_validatorv31.js'></script>
       <style>
           body{
-            background: #333 url(gaming.jpg) repeat top left;  
+            background: #333 url(images/gaming.jpg) repeat top left;  
             font-family:Arial;
 
           }

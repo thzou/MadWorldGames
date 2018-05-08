@@ -24,7 +24,7 @@ if(!$fgmembersite->CheckLogin())
           body{
             
             font-family:Arial;
- 			      background-image:url(map.jpg);
+ 			      background-image:url(images/map.jpg);
 
    			    background-repeat:no-repeat;
 

@@ -19,7 +19,7 @@ if(!$fgmembersite->CheckLogin())
         <style>
 			body{
 				
-				background: #333 url(gaming3.jpg) repeat right;   
+				background: #333 url(images/gaming3.jpg) repeat right;   
 				font-family:Arial;
 				background-size: cover;
 				
@@ -46,7 +46,7 @@ if(!$fgmembersite->CheckLogin())
 			}
 			h1.title{
 				text-indent:-9000px;
-				background:transparent url(logo.png) no-repeat top left;
+				background:transparent url(images/logo.png) no-repeat top left;
 				width:600px;
 				height:90px;
 			}

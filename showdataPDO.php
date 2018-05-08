@@ -53,7 +53,7 @@ echo "</table>";
            body{
                  
                 font-family:serif;
-                background-image:url(bg1.png);
+                background-image:url(images/bg1.png);
 
                 background-repeat:no-repeat;
 

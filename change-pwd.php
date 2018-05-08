@@ -27,7 +27,7 @@ if(isset($_POST['submitted']))
       <script src="scripts/pwdwidget.js" type="text/javascript"></script>
        <style>
           body{
-            background: #333 url(gaming.jpg) repeat top left;  
+            background: #333 url(images/gaming.jpg) repeat top left;  
             font-family:Arial;
 
           }
